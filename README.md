@@ -1,4 +1,4 @@
-# Smoothing Answer for Vietnamese Machine Reading Comprehension Task
+# Vietnamese Machine Reading Comprehension
 
 **Abstract:** Extraction-based machine reading comprehension tasks typically generate answers as single spans from a passage. However, real-world answers often involve multiple spans from different positions. Relying on single-span answers can omit crucial information, include irrelevant details, or cause grammatical errors. Multi-span answers can address these issues, but datasets for multi-span tasks remain limited. In this study, we constructed a comprehensive multi-span reading comprehension dataset, consisting of 1,457 question-answer pairs. Using BERT, our best results achieved 43.85% accuracy, 58.59% ROUGE-L, and 82.06% BERTScore-F1. We also analyzed error cases to guide future improvements.<br>
 
